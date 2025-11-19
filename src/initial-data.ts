@@ -127,7 +127,7 @@ export const initialData: FlowDocumentJSON = {
           width: 240,
           height: 150,
         },
-        note: 'hi ~\n\nthis is a comment node\n\n- flowgram.ai',
+        note: 'hi ~\n\nthis is a comment node\n\n- flowforge.netlib.re',
       },
     },
     {
